@@ -4,12 +4,12 @@
 		<div class="flex-w p-b-90">
 			<div class="w-size6 p-t-30 p-l-15 p-r-15 respon3">
 				<h4 class="s-text12 p-b-30">
-					GET IN TOUCH
+					DÚVIDAS ENTRAR EM CONTATO
 				</h4>
 
 				<div>
 					<p class="s-text7 w-size27">
-						Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879
+						Alguma pergunta? enviar e-mail para: email@.com ou ligue para (51) 967166879
 					</p>
 
 					<div class="flex-m p-t-30">
@@ -24,31 +24,31 @@
 
 			<div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
 				<h4 class="s-text12 p-b-30">
-					Categories
+					Categorias
 				</h4>
 
 				<ul>
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Men
+							Homem
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Women
+							Mulher
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Dresses
+							Vestidos
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Sunglasses
+							Oculos escuros
 						</a>
 					</li>
 				</ul>
@@ -62,25 +62,25 @@
 				<ul>
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Search
+							Procurar
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							About Us
+							Sobre nós
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Contact Us
+							Contate-Nos
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Returns
+							Retornar
 						</a>
 					</li>
 				</ul>
@@ -94,19 +94,19 @@
 				<ul>
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Track Order
+							Acompanhar Pedido
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Returns
+							Retornar
 						</a>
 					</li>
 
 					<li class="p-b-9">
 						<a href="#" class="s-text7">
-							Shipping
+							Remessa
 						</a>
 					</li>
 
@@ -118,9 +118,9 @@
 				</ul>
 			</div>
 
-			<div class="w-size8 p-t-30 p-l-15 p-r-15 respon3">
+			{{--  <div class="w-size8 p-t-30 p-l-15 p-r-15 respon3">
 				<h4 class="s-text12 p-b-30">
-					Newsletter
+					Boletim de Notícias
 				</h4>
 
 				<form>
@@ -132,15 +132,18 @@
 					<div class="w-size2 p-t-20">
 						<!-- Button -->
 						<button class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
-							Subscribe
+							Se inscrever
 						</button>
 					</div>
 
 				</form>
-			</div>
+			</div>  --}}
 		</div>
 
 		<div class="t-center p-l-15 p-r-15">
+				<h4 class="s-text12 p-b-30">
+						Aceitamos estes tipos de catões
+					</h4>
 			<a href="#">
 				<img class="h-size2" src="{{asset('app-assets/images/icons/paypal.png')}}" alt="IMG-PAYPAL">
 			</a>
@@ -209,14 +212,14 @@
 		$('.block2-btn-addcart').each(function(){
 			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
 			$(this).on('click', function(){
-				swal(nameProduct, "is added to cart !", "success");
+				swal(nameProduct, "é adicionado ao carrinho!", "success");
 			});
 		});
 
 		$('.block2-btn-addwishlist').each(function(){
 			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
 			$(this).on('click', function(){
-				swal(nameProduct, "is added to wishlist !", "success");
+				swal(nameProduct, "é adicionado à lista de desejos!", "success");
 			});
 		});
 	</script>

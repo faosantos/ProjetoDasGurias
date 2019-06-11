@@ -9,17 +9,17 @@
 				<div class="item-slick1 item1-slick1" style="background-image: url(app-assets/images/master-slide-02.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-							Women Collection 2018
+							Coleção de mulheres 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
-							New arrivals
+							Novos lançamentos
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="zoomIn">
 							<!-- Button -->
 							<a href="product.html" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Shop Now
+								Compre agora
 							</a>
 						</div>
 					</div>
@@ -28,17 +28,17 @@
 				<div class="item-slick1 item2-slick1" style="background-image: url(app-assets/images/master-slide-03.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rollIn">
-							Women Collection 2018
+							Coleção de mulheres 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
-							New arrivals
+							Novos lançamentos
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="slideInUp">
 							<!-- Button -->
 							<a href="product.html" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Shop Now
+								Compre agora
 							</a>
 						</div>
 					</div>
@@ -47,17 +47,17 @@
 				<div class="item-slick1 item3-slick1" style="background-image: url(app-assets/images/master-slide-04.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-							Women Collection 2018
+							Coleção de mulheres 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-							New arrivals
+							Novos lançamentos
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="rotateIn">
 							<!-- Button -->
 							<a href="product.html" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Shop Now
+								Compre agora
 							</a>
 						</div>
 					</div>
@@ -79,7 +79,7 @@
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Dresses
+								Vestidos
 							</a>
 						</div>
 					</div>
@@ -91,7 +91,7 @@
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Sunglasses
+								Óculos escuros
 							</a>
 						</div>
 					</div>
@@ -105,7 +105,7 @@
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Watches
+								Relógios
 							</a>
 						</div>
 					</div>
@@ -117,7 +117,7 @@
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Footerwear
+								Calçados
 							</a>
 						</div>
 					</div>
@@ -131,7 +131,7 @@
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Bags
+								Bolsas
 							</a>
 						</div>
 					</div>
@@ -142,17 +142,17 @@
 
 						<div class="block2-content sizefull ab-t-l flex-col-c-m">
 							<h4 class="m-text4 t-center w-size3 p-b-8">
-								Sign up & get 20% off
+								Inscreva-se e receba 20% de desconto
 							</h4>
 
 							<p class="t-center w-size4">
-								Be the frist to know about the latest fashion news and get exclu-sive offers
+								Seja o primeiro a saber das últimas novidades da moda e receba ofertas exclusivas
 							</p>
 
 							<div class="w-size2 p-t-25">
 								<!-- Button -->
 								<a href="#" class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
-									Sign Up
+									Inscrever-se
 								</a>
 							</div>
 						</div>
@@ -167,7 +167,7 @@
 		<div class="container">
 			<div class="sec-title p-b-60">
 				<h3 class="m-text5 t-center">
-					Featured Products
+					Produtos em destaque
 				</h3>
 			</div>
 
@@ -190,7 +190,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -198,7 +198,7 @@
 
 							<div class="block2-txt p-t-20">
 								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
-									Herschel supply co 25l
+									Herschel fornecer co 25l
 								</a>
 
 								<span class="block2-price m-text6 p-r-5">
@@ -223,7 +223,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -256,7 +256,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -289,7 +289,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -326,7 +326,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -359,7 +359,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -392,7 +392,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -425,7 +425,7 @@
 									<div class="block2-btn-addcart w-size1 trans-0-4">
 										<!-- Button -->
 										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
-											Add to Cart
+											Adicionar ao carrinho
 										</button>
 									</div>
 								</div>
@@ -462,15 +462,15 @@
 
 						<div class="ab-t-l sizefull flex-col-c-m p-l-15 p-r-15">
 							<span class="m-text9 p-t-45 fs-20-sm">
-								The Beauty
+								A beleza
 							</span>
 
 							<h3 class="l-text1 fs-35-sm">
-								Lookbook
+								Olha o livro
 							</h3>
 
 							<a href="#" class="s-text4 hov2 p-t-20 ">
-								View Collection
+								Ver coleção
 							</a>
 						</div>
 					</div>
@@ -549,7 +549,7 @@
 		<div class="container">
 			<div class="sec-title p-b-52">
 				<h3 class="m-text5 t-center">
-					Our Blog
+					Nosso blog
 				</h3>
 			</div>
 
@@ -564,7 +564,7 @@
 						<div class="block3-txt p-t-14">
 							<h4 class="p-b-7">
 								<a href="blog-detail.html" class="m-text11">
-									Black Friday Guide: Best Sales & Discount Codes
+									Black Friday Guide: Melhores vendas e códigos de desconto
 								</a>
 							</h4>
 
@@ -588,7 +588,7 @@
 						<div class="block3-txt p-t-14">
 							<h4 class="p-b-7">
 								<a href="blog-detail.html" class="m-text11">
-									The White Sneakers Nearly Every Fashion Girls Own
+									As sapatilhas brancas quase todas as meninas da moda possuem
 								</a>
 							</h4>
 
@@ -612,7 +612,7 @@
 						<div class="block3-txt p-t-14">
 							<h4 class="p-b-7">
 								<a href="blog-detail.html" class="m-text11">
-									New York SS 2018 Street Style: Annina Mislin
+									New York SS 2019 Estilo de rua: Annina Mislin
 								</a>
 							</h4>
 
@@ -633,7 +633,7 @@
 	<section class="instagram p-t-20">
 		<div class="sec-title p-b-52 p-l-15 p-r-15">
 			<h3 class="m-text5 t-center">
-				@ follow us on Instagram
+				@ Siga-nos no Instagram
 			</h3>
 		</div>
 
@@ -755,31 +755,31 @@
 		<div class="flex-w p-l-15 p-r-15">
 			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 respon1">
 				<h4 class="m-text12 t-center">
-					Free Delivery Worldwide
+					Entrega Gratuita em todo o mundo
 				</h4>
 
 				<a href="#" class="s-text11 t-center">
-					Click here for more info
+					Clique aqui para mais informações
 				</a>
 			</div>
 
 			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 bo2 respon2">
 				<h4 class="m-text12 t-center">
-					30 Days Return
+					30 dias de retorno
 				</h4>
 
 				<span class="s-text11 t-center">
-					Simply return it within 30 days for an exchange.
+					Basta devolvê-lo no prazo de 30 dias para uma troca.
 				</span>
 			</div>
 
 			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 respon1">
 				<h4 class="m-text12 t-center">
-					Store Opening
+					Abertura de loja
 				</h4>
 
 				<span class="s-text11 t-center">
-					Shop open from Monday to Sunday
+					Loja aberta de segunda a domingo
 				</span>
 			</div>
 		</div>
