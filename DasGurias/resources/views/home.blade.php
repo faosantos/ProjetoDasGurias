@@ -13,7 +13,8 @@
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
-							Novos lançamentos
+							{{-- Novos lançamentos --}}
+							<img src="app-assets/images/logo1.PNG" alt="IMG-BENNER">
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="zoomIn">
@@ -544,7 +545,7 @@
 	</section>
 
 
-	<!-- Blog -->
+	{{-- <!-- Blog -->
 	<section class="blog bgwhite p-t-94 p-b-65">
 		<div class="container">
 			<div class="sec-title p-b-52">
@@ -627,7 +628,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> --}}
 
 	<!-- Instagram -->
 	<section class="instagram p-t-20">
