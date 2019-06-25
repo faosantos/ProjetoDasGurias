@@ -3023,9 +3023,9 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 }
 
 .s-text2 {
-	font-family: Montserrat-Regular;
+	font-family: Alike;
 	font-size: 15px;
-	color: #111111;
+	color: #77168f;
 	text-transform: uppercase;
 }
 
@@ -3177,9 +3177,10 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ///////////////////////////////////////////////////////////
 */
 .m-text1 {
-	font-family: Montserrat-Regular;
-	font-size: 18px;
-	color: white;
+	font-family: Alike;
+	font-size: 28px;
+	font-weight: bold;
+	color: #77168f;
 	line-height: 1.5;
 	letter-spacing: 2px;
 }

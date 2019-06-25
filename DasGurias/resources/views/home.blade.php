@@ -6,15 +6,15 @@
 	<section class="slide1">
 		<div class="wrap-slick1">
 			<div class="slick1">
-				<div class="item-slick1 item1-slick1" style="background-image: url(app-assets/images/master-slide-02.jpg);">
+				<div class="item-slick1 item1-slick1" style="background-image: url(app-assets/images/imagens_site/imag_22.jpeg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-							Coleção de mulheres 2019
+							Coleção 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
 							{{-- Novos lançamentos --}}
-							<img src="app-assets/images/logo1.PNG" alt="IMG-BENNER">
+							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="zoomIn">
@@ -26,14 +26,15 @@
 					</div>
 				</div>
 
-				<div class="item-slick1 item2-slick1" style="background-image: url(app-assets/images/master-slide-03.jpg);">
+				<div class="item-slick1 item2-slick1" style="background-image: url(app-assets/images/imagens_site/imag_4.jpeg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rollIn">
-							Coleção de mulheres 2019
+							Coleção 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
-							Novos lançamentos
+							{{--  Novos lançamentos  --}}
+							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="slideInUp">
@@ -45,14 +46,15 @@
 					</div>
 				</div>
 
-				<div class="item-slick1 item3-slick1" style="background-image: url(app-assets/images/master-slide-04.jpg);">
+				<div class="item-slick1 item3-slick1" style="background-image: url(app-assets/images/imagens_site/imag_19.jpeg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-							Coleção de mulheres 2019
+							Coleção 2019
 						</span>
 
 						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-							Novos lançamentos
+							{{--  Novos lançamentos  --}}
+							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
 						</h2>
 
 						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="rotateIn">
