@@ -77,7 +77,19 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/banner-02.jpg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_6.jpeg" alt="IMG-BENNER">
+
+						<div class="block1-wrapbtn w-size2">
+							<!-- Button -->
+							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+								Calças Jeans
+							</a>
+						</div>
+					</div>
+
+					<!-- block1 -->
+					<div class="block1 hov-img-zoom pos-relative m-b-30">
+						<img src="app-assets/images/imagens_site/imag_7.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
@@ -86,15 +98,29 @@
 							</a>
 						</div>
 					</div>
+				</div>
 
+				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/banner-05.jpg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_8.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Óculos escuros
+								Blusas
+							</a>
+						</div>
+					</div>
+
+					<!-- block1 -->
+					<div class="block1 hov-img-zoom pos-relative m-b-30">
+						<img src="app-assets/images/imagens_site/imag_9.jpeg" alt="IMG-BENNER">
+
+						<div class="block1-wrapbtn w-size2">
+							<!-- Button -->
+							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+								Calças Jeans
 							</a>
 						</div>
 					</div>
@@ -103,38 +129,12 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/banner-03.jpg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_11.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Relógios
-							</a>
-						</div>
-					</div>
-
-					<!-- block1 -->
-					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/banner-07.jpg" alt="IMG-BENNER">
-
-						<div class="block1-wrapbtn w-size2">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Calçados
-							</a>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
-					<!-- block1 -->
-					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/banner-04.jpg" alt="IMG-BENNER">
-
-						<div class="block1-wrapbtn w-size2">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Bolsas
+								Calças Suplex
 							</a>
 						</div>
 					</div>
@@ -182,7 +182,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-								<img src="app-assets/images/item-02.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_12.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -215,7 +215,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="app-assets/images/item-03.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_13.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -248,7 +248,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="app-assets/images/item-05.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_10.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -281,7 +281,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
-								<img src="app-assets/images/item-07.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_15.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -318,7 +318,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-								<img src="app-assets/images/item-02.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_16.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -351,7 +351,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="app-assets/images/item-03.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_17.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -384,7 +384,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="app-assets/images/item-05.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_18.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -417,7 +417,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
-								<img src="app-assets/images/item-07.jpg" alt="IMG-PRODUCT">
+								<img src="app-assets/images/imagens_site/imag_19.jpeg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -461,15 +461,15 @@
 			<div class="row">
 				<div class="col-sm-10 col-md-8 col-lg-6 m-l-r-auto p-t-15 p-b-15">
 					<div class="hov-img-zoom pos-relative">
-						<img src="app-assets/images/banner-08.jpg" alt="IMG-BANNER">
+						<img src="app-assets/images/imagens_site/imag_26.jpeg" alt="IMG-BANNER">
 
 						<div class="ab-t-l sizefull flex-col-c-m p-l-15 p-r-15">
 							<span class="m-text9 p-t-45 fs-20-sm">
-								A beleza
+								A beleza 
 							</span>
 
 							<h3 class="l-text1 fs-35-sm">
-								Olha o livro
+								Plu Size
 							</h3>
 
 							<a href="#" class="s-text4 hov2 p-t-20 ">
@@ -481,12 +481,12 @@
 
 				<div class="col-sm-10 col-md-8 col-lg-6 m-l-r-auto p-t-15 p-b-15">
 					<div class="bgwhite hov-img-zoom pos-relative p-b-20per-ssm">
-						<img src="app-assets/images/shop-item-09.jpg" alt="IMG-BANNER">
+						<img src="app-assets/images/imagens_site/imag_27.jpeg" alt="IMG-BANNER">
 
 						<div class="ab-t-l sizefull flex-col-c-b p-l-15 p-r-15 p-b-20">
 							<div class="t-center">
 								<a href="product-detail.html" class="dis-block s-text3 p-b-5">
-									Gafas sol Hawkers one
+									Claças Jeans
 								</a>
 
 								<span class="block2-oldprice m-text7 p-r-5">
@@ -498,7 +498,7 @@
 								</span>
 							</div>
 
-							<div class="flex-c-m p-t-44 p-t-30-xl">
+							{{--  <div class="flex-c-m p-t-44 p-t-30-xl">
 								<div class="flex-col-c-m size3 bo1 m-l-5 m-r-5">
 									<span class="m-text10 p-b-1 days">
 										69
@@ -538,7 +538,7 @@
 										secs
 									</span>
 								</div>
-							</div>
+							</div>  --}}
 						</div>
 					</div>
 				</div>
@@ -643,7 +643,7 @@
 		<div class="flex-w">
 			<!-- Block4 -->
 			<div class="block4 wrap-pic-w">
-				<img src="app-assets/images/gallery-03.jpg" alt="IMG-INSTAGRAM">
+				<img src="app-assets/images/imagens_site/imag_29.jpeg" alt="IMG-INSTAGRAM">
 
 				<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 					<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -665,7 +665,7 @@
 
 			<!-- Block4 -->
 			<div class="block4 wrap-pic-w">
-				<img src="app-assets/images/gallery-07.jpg" alt="IMG-INSTAGRAM">
+				<img src="app-assets/images/imagens_site/imag_30.jpeg" alt="IMG-INSTAGRAM">
 
 				<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 					<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -687,7 +687,7 @@
 
 			<!-- Block4 -->
 			<div class="block4 wrap-pic-w">
-				<img src="app-assets/images/gallery-09.jpg" alt="IMG-INSTAGRAM">
+				<img src="app-assets/images/imagens_site/imag_23.jpeg" alt="IMG-INSTAGRAM">
 
 				<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 					<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -709,7 +709,7 @@
 
 			<!-- Block4 -->
 			<div class="block4 wrap-pic-w">
-				<img src="app-assets/images/gallery-13.jpg" alt="IMG-INSTAGRAM">
+				<img src="app-assets/images/imagens_site/imag_24.jpeg" alt="IMG-INSTAGRAM">
 
 				<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 					<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -729,7 +729,7 @@
 				</a>
 			</div>
 
-			<!-- Block4 -->
+			{{--  <!-- Block4 -->
 			<div class="block4 wrap-pic-w">
 				<img src="app-assets/images/gallery-15.jpg" alt="IMG-INSTAGRAM">
 
@@ -749,7 +749,7 @@
 						</span>
 					</div>
 				</a>
-			</div>
+			</div>  --}}
 		</div>
 	</section>
 
