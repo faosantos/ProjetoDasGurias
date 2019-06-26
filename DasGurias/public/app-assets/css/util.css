@@ -3018,7 +3018,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .s-text1 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;
-	color: white;
+	color: #77168f;
 	text-transform: uppercase;
 }
 
@@ -3030,9 +3030,9 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 }
 
 .s-text3 {
-	font-family: Montserrat-Regular;
+	font-family: Montserrat-bold;
 	font-size: 15px;
-	color: #555555;
+	color: #77168f;
 	line-height: 1.5;
 }
 
@@ -3188,7 +3188,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .m-text2 {
 	font-family: Montserrat-Regular;
 	font-size: 16px;
-	color: #333333;
+	color: #77168f;
 	text-transform: uppercase;
 }
 
@@ -3209,8 +3209,9 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 
 .m-text5 {
 	font-family: Montserrat-Bold;
+	/* font-family: Alike-Bold; */
 	font-size: 30px;
-	color: #222222;
+	color: #77168f;
 	line-height: 1.2;
 	text-transform: uppercase;
 }
@@ -3218,7 +3219,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .m-text6 {
 	font-family: Montserrat-Regular;
 	font-size: 16px;
-	color: #555555;
+	color: #77168f;
 	text-transform: uppercase;
 }
 

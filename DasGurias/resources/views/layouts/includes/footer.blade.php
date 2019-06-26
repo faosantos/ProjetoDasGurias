@@ -212,14 +212,14 @@
 		$('.block2-btn-addcart').each(function(){
 			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
 			$(this).on('click', function(){
-				swal(nameProduct, "é adicionado ao carrinho!", "success");
+				swal(nameProduct, "Faça seu pedido atraves do nosso Whatsapp:999999999", "success");
 			});
 		});
 
 		$('.block2-btn-addwishlist').each(function(){
 			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
 			$(this).on('click', function(){
-				swal(nameProduct, "é adicionado à lista de desejos!", "success");
+				swal(nameProduct, "Adorei este produto", "success");
 			});
 		});
 	</script>
