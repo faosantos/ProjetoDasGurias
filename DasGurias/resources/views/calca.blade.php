@@ -2,82 +2,14 @@
 
 @section('conteudo')
 
-<!-- Slide1 -->
-	<section class="slide1">
-		<div class="wrap-slick1">
-			<div class="slick1">
-				<div class="item-slick1 item1-slick1" style="background-image: url(app-assets/images/imagens_site/imag_22.jpeg);">
-					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-							Coleção 2019
-						</span>
-
-						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
-							{{-- Novos lançamentos --}}
-							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
-						</h2>
-
-						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="zoomIn">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Compre agora
-							</a>
-						</div>
-					</div>
-				</div>
-
-				<div class="item-slick1 item2-slick1" style="background-image: url(app-assets/images/imagens_site/imag_4.jpeg);">
-					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rollIn">
-							Coleção 2019
-						</span>
-
-						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
-							{{--  Novos lançamentos  --}}
-							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
-						</h2>
-
-						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="slideInUp">
-							<!-- Button -->
-							<a href="product.html" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Compre agora
-							</a>
-						</div>
-					</div>
-				</div>
-
-				<div class="item-slick1 item3-slick1" style="background-image: url(app-assets/images/imagens_site/imag_19.jpeg);">
-					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-						<span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-							Coleção 2019
-						</span>
-
-						<h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-							{{--  Novos lançamentos  --}}
-							<img src="app-assets/images/logo_principal1.PNG" alt="IMG-BENNER">
-						</h2>
-
-						<div class="wrap-btn-slide1 w-size1 animated visible-false" data-appear="rotateIn">
-							<!-- Button -->
-							<a href="product.html" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
-								Compre agora
-							</a>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-
-	<!-- Banner -->
+<!-- Banner -->
 	<section class="banner bgwhite p-t-40 p-b-40">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_6.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_13.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
@@ -89,30 +21,18 @@
 
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_7.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_1.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Vestidos
+								Calças Jeans
 							</a>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
-					<!-- block1 -->
-					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_8.jpeg" alt="IMG-BENNER">
-
-						<div class="block1-wrapbtn w-size2">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
-							</a>
-						</div>
-					</div>
-
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
 						<img src="app-assets/images/imagens_site/imag_9.jpeg" alt="IMG-BENNER">
@@ -124,17 +44,29 @@
 							</a>
 						</div>
 					</div>
+
+					<!-- block1 -->
+					<div class="block1 hov-img-zoom pos-relative m-b-30">
+						<img src="app-assets/images/imagens_site/imag_10.jpeg" alt="IMG-BENNER">
+
+						<div class="block1-wrapbtn w-size2">
+							<!-- Button -->
+							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+								Calças Jeans
+							</a>
+						</div>
+					</div>
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_11.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_12.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Calças Suplex
+								Calças Jeans
 							</a>
 						</div>
 					</div>
@@ -145,7 +77,7 @@
 
 						<div class="block2-content sizefull ab-t-l flex-col-c-m">
 							<h4 class="m-text4 t-center w-size3 p-b-8">
-								Inscreva-se no nosso Facebook.
+								Calças Jens.
 							</h4>
 
 							<p class="t-center w-size4">
@@ -154,8 +86,8 @@
 
 							<div class="w-size2 p-t-25">
 								<!-- Button -->
-								<a href="#" class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
-									Inscrever-se
+								<a href="{{ url('/') }}" class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
+									Voltar
 								</a>
 							</div>
 						</div>
@@ -164,13 +96,12 @@
 			</div>
 		</div>
 	</section>
-
-	{{-- <!-- New Product -->
+	<!-- New Product -->
 	<section class="newproduct bgwhite p-t-45 p-b-105">
 		<div class="container">
 			<div class="sec-title p-b-60">
 				<h3 class="m-text5 t-center">
-					Produtos em destaque
+					Coleção 2019
 				</h3>
 			</div>
 
@@ -453,41 +384,5 @@
 			</div>
 
 		</div>
-	</section> --}}
-
-	{{-- <!-- Shipping -->
-	<section class="shipping bgwhite p-t-62 p-b-46">
-		<div class="flex-w p-l-15 p-r-15">
-			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 respon1">
-				<h4 class="m-text12 t-center">
-					Entrega Gratuita em todo o mundo
-				</h4>
-
-				<a href="#" class="s-text11 t-center">
-					Clique aqui para mais informações
-				</a>
-			</div>
-
-			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 bo2 respon2">
-				<h4 class="m-text12 t-center">
-					30 dias de retorno
-				</h4>
-
-				<span class="s-text11 t-center">
-					Basta devolvê-lo no prazo de 30 dias para uma troca.
-				</span>
-			</div>
-
-			<div class="flex-col-c w-size5 p-l-15 p-r-15 p-t-16 p-b-15 respon1">
-				<h4 class="m-text12 t-center">
-					Abertura de loja
-				</h4>
-
-				<span class="s-text11 t-center">
-					Loja aberta de segunda a domingo
-				</span>
-			</div>
-		</div>
-	</section> --}}
-
+	</section>
 @endsection

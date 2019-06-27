@@ -19,3 +19,4 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::get('/calca', 'HomeController@calca')->name('calca');
 Route::get('/vestido', 'HomeController@vestido')->name('vestido');
 Route::get('/blusa', 'HomeController@blusa')->name('blusa');
+Route::get('/pluSize', 'HomeController@pluSize')->name('pluSize');

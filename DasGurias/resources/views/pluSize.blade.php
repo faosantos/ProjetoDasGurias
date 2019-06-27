@@ -9,50 +9,24 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_2.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_25.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
+								Plu Size
 							</a>
 						</div>
 					</div>
 
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_3.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_26.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
-							</a>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
-					<!-- block1 -->
-					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_8.jpeg" alt="IMG-BENNER">
-
-						<div class="block1-wrapbtn w-size2">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
-							</a>
-						</div>
-					</div>
-
-					<!-- block1 -->
-					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_5.jpeg" alt="IMG-BENNER">
-
-						<div class="block1-wrapbtn w-size2">
-							<!-- Button -->
-							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
+								Plu Size
 							</a>
 						</div>
 					</div>
@@ -61,12 +35,38 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="app-assets/images/imagens_site/imag_18.jpeg" alt="IMG-BENNER">
+						<img src="app-assets/images/imagens_site/imag_27.jpeg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Blusas
+								Plu Size
+							</a>
+						</div>
+					</div>
+
+					<!-- block1 -->
+					<div class="block1 hov-img-zoom pos-relative m-b-30">
+						<img src="app-assets/images/imagens_site/imag_28.jpeg" alt="IMG-BENNER">
+
+						<div class="block1-wrapbtn w-size2">
+							<!-- Button -->
+							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+								Plu Size
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
+					<!-- block1 -->
+					<div class="block1 hov-img-zoom pos-relative m-b-28">
+						<img src="app-assets/images/imagens_site/imag_11.jpeg" alt="IMG-BENNER">
+
+						<div class="block1-wrapbtn w-size2">
+							<!-- Button -->
+							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+								Plu Size
 							</a>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 
 						<div class="block2-content sizefull ab-t-l flex-col-c-m">
 							<h4 class="m-text4 t-center w-size3 p-b-8">
-								Blusas.
+								Plu Size.
 							</h4>
 
 							<p class="t-center w-size4">

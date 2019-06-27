@@ -9,7 +9,6 @@ class HomeController extends Controller
     public function index(){
 
         return view('home');
-
     }
     public function calca(){
 
@@ -22,6 +21,10 @@ class HomeController extends Controller
     public function vestido(){
 
         return view('vestido');
+    }
+    public function pluSize(){
+
+        return view('pluSize');
     }
 
 }
